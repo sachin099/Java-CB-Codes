@@ -1,3 +1,4 @@
+package starters_loops_int_algos;
 import java.util.*;
 public class BostonNumber {
     public static void main(String args[]) {
